@@ -116,6 +116,14 @@ g++ teste.cpp -o teste pkg-config --cflags --libs opencv4 -lcurl
 
 Este projeto ilustra como baixar, processar e converter imagens coloridas para escala de cinza usando C++ e OpenCV. A conversão para escala de cinza é uma técnica fundamental em visão computacional, frequentemente usada como etapa de pré-processamento em diversas aplicações.
 
+### Agradecimentos
+
+_Agradecemos à comunidade *Open Source* pelo desenvolvimento e manutenção de ferramentas essenciais, que foram fundamentais para a realização deste projeto!_
+
+## Referências
+
+OPENCV. *OpenCV: Open Source Computer Vision Library*. 2023. Disponível em: <https://opencv.org/>. Acesso em: 11 fev. 2025.
+
 ---
 
 ![BannerProject](https://raw.githubusercontent.com/pgerc-unilab/Computer-Vision-in-C-/70f123aa93daccb7e1c6c9c750984e0cf7f79a2d/Banner_final.svg)
